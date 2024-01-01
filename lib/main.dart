@@ -16,7 +16,7 @@ class Login extends StatelessWidget{
   Widget build (BuildContext context)
   {
     return Scaffold(
-      appBar: AppBar(title: Text("Hossame siilawy"),),
+      appBar: AppBar(title: Text("First app"),),
       drawer: Drawer(),
       body: Container(
         padding: EdgeInsets.symmetric(horizontal: 20),
